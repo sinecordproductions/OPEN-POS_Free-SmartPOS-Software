@@ -1,7 +1,7 @@
                             OPEN POS - LICENSE
                         Public Domain / No Restrictions
 
-           Open POS was created by Muhammad Sayban (Saban Productions).
+           Open POS was created by Muhammad Sayban (Sinecord Productions).
 
          This software is released into the public domain. There are NO
                              restrictions of any kind.
